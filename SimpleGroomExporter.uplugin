@@ -1,4 +1,4 @@
-﻿{
+{
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
@@ -9,10 +9,10 @@
 	"CreatedByURL": "https://www.linkedin.com/in/jacob-kostenick",
 	"DocsURL": "https://github.com/kostenickj/UE5_SimpleGroomExporter",
 	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.8.0",
 	"CanContainContent": false,
-	"IsBetaVersion": false,
-	"IsExperimentalVersion": false,
-	"Installed": false,
+	"Installed": true,
 	"Modules": [
 		{
 			"Name": "SimpleGroomExporter",
